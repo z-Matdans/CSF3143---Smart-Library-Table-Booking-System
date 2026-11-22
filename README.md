@@ -29,3 +29,5 @@ Each group member is responsible for managing the requirements, use case modelin
 * `docs/meetings/` – Meeting minutes & discussion logs
 * `docs/requirements/` – Stakeholder interview notes, survey results & requirement specs
 * `docs/design/` – UML Use Case Diagrams & UI wireframes/mockups
+
+* MUHAMMAD 
